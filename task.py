@@ -1,21 +1,5 @@
 import random 
 
-
-
-
-
-
-
-before = ["aardvark",  "lion"]
-
-after = []
-
-initial =["cat",  "dog",  "monkey",  "lion",  "fish",  "aardvark"]
-
-items='cat'
-
-
-
 #method to return the indexes
 def indexes(subarray,array):
     indexes=[]
